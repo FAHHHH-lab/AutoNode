@@ -210,7 +210,3 @@ Utilities operate on `thread_registry.json` and preserve a `history` field with 
   - `operations._load_registry` will recover with an empty registry and log a warning.
 
 ---
-
-## License
-
-MIT (or project default). Update this section if a different license applies.
